@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+npm-debug.log
+.env
+.env.local
+.env.development
+.env.production
+
+# Next.js
+.next/
+out/
+
+# IDE/System
+.DS_Store
+.idea/
+.vscode/
+*.log
